@@ -7,6 +7,6 @@ itsdangerous==0.24
 rauth==0.7.0
 wsgiref==0.1.2
 requests==2.25.0
-pillow==8.4.0
+pillow==10.0.1
 gunicorn==18.0
 Flask-SSLify==0.1.4
